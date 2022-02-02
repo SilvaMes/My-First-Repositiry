@@ -1,2 +1,2 @@
-# My-First-Repositiry
+# My-First-Repository
 First repository to learn
